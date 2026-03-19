@@ -94,10 +94,10 @@ Exception handling is used to manage file access errors and ensure reliable read
 ## Future Improvements
 
 - GUI-based extension using C++ Qt  
-  (Implemented and available in a private repository)
+  (Implemented and available in a different repository)
 
 - GUI-based extension using JavaFX, with file-based storage replaced by a MySQL database using JDBC  
-  (Implemented and available in a private repository)
+  (Implemented and available in a different repository)
 
 ---
 
